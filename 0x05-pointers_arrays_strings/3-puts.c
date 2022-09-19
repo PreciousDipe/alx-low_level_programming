@@ -3,6 +3,7 @@
  * Auth: Precious Ogundipe
  */
 
+#include <stdio.h>
 #include "main.h"
 /**
  * _puts - prints a string
@@ -13,7 +14,7 @@ void _puts(char *str)
 {
 	while (*str)
 	{
-		_putchar(*str++);
+		putchar(*str++);
 	}
-	_putchar(10);
+	putchar(10);
 }
