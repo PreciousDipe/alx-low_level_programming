@@ -1,3 +1,8 @@
+/*
+ * file: 3-puts.c
+ * Auth: Precious Ogundipe
+ */
+
 #include "main.h"
 /**
  * _puts - prints a string
