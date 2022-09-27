@@ -1,5 +1,1 @@
-# More pointers, arrays and strings
-<br>
-Author Eniola Samuel Olawunmi
-<br>
-Cisfun
+This is a readme file
