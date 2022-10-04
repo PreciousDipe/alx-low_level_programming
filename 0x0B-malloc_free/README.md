@@ -1,2 +1,1 @@
-# Malloc
-Author Eniola Olawunmi
+This is a readme file
